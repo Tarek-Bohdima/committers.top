@@ -4896,7 +4896,7 @@ private_users:
     name: "Badriya Haddad"
     login: "badriyahaddad"
     avatarUrl: https://avatars.githubusercontent.com/u/92321855?u=997c9903e6f1ddae3574d5b0f9d975a2beaafa42&v=4
-    contributions: 227
+    contributions: 228
     company: ""
     organizations: ""
 
@@ -6151,11 +6151,11 @@ private_users:
 organizations:
 
   - rank: 1
-    name: "iontel"
+    name: "sahablibya"
     membercount: 2
 
   - rank: 2
-    name: "sahablibya"
+    name: "iontel"
     membercount: 2
 
   - rank: 3
@@ -6167,27 +6167,27 @@ organizations:
     membercount: 1
 
   - rank: 5
-    name: "izar-tech"
+    name: "cipher-it"
     membercount: 1
 
   - rank: 6
-    name: "nafaateam"
+    name: "sahably"
     membercount: 1
 
   - rank: 7
-    name: "ons-sofian"
-    membercount: 1
-
-  - rank: 8
     name: "shibani-saleh"
     membercount: 1
 
+  - rank: 8
+    name: "rebiana"
+    membercount: 1
+
   - rank: 9
-    name: "dmi-information-technology"
+    name: "hexaconnection"
     membercount: 1
 
   - rank: 10
-    name: "tafani-company"
+    name: "modetor"
     membercount: 1
 
 public_contributions_organizations:
@@ -6201,11 +6201,11 @@ public_contributions_organizations:
     membercount: 2
 
   - rank: 3
-    name: "elastic"
+    name: "prestoly"
     membercount: 1
 
   - rank: 4
-    name: "rebiana"
+    name: "nafaateam"
     membercount: 1
 
   - rank: 5
@@ -6213,23 +6213,23 @@ public_contributions_organizations:
     membercount: 1
 
   - rank: 6
-    name: "sahably"
+    name: "dmi-information-technology"
     membercount: 1
 
   - rank: 7
-    name: "modetor"
+    name: "quadro-mayasem"
     membercount: 1
 
   - rank: 8
-    name: "nafaateam"
+    name: "elastic"
     membercount: 1
 
   - rank: 9
-    name: "shibani-saleh"
+    name: "sahably"
     membercount: 1
 
   - rank: 10
-    name: "growth-tech-ly"
+    name: "izar-tech"
     membercount: 1
 
 private_organizations:
@@ -6239,11 +6239,11 @@ private_organizations:
     membercount: 2
 
   - rank: 2
-    name: "growth-tech-ly"
+    name: "tatweerresearch"
     membercount: 2
 
   - rank: 3
-    name: "tatweerresearch"
+    name: "growth-tech-ly"
     membercount: 2
 
   - rank: 4
@@ -6255,26 +6255,26 @@ private_organizations:
     membercount: 2
 
   - rank: 6
-    name: "modetor"
+    name: "aca-ly"
     membercount: 1
 
   - rank: 7
-    name: "mt-reservation"
+    name: "hamoboker"
     membercount: 1
 
   - rank: 8
-    name: "nafaateam"
+    name: "ons-sofian"
     membercount: 1
 
   - rank: 9
-    name: "sahably"
+    name: "elastic"
     membercount: 1
 
   - rank: 10
-    name: "muljin"
+    name: "quadro-mayasem"
     membercount: 1
-generated: 2024-12-06T18:32:50Z
+generated: 2024-12-06T18:53:39Z
 min_followers_required: 0
 total_user_count: 1130
 title: Libya
-definition_checksum: 2f58729b583d59c3013e37e77dc034b88cf3cd5351c8e9163a9ca910b4ea1085
+definition_checksum: 8c5252a852cb24f5793ffda16bcb3aaff8815dd3bc81609a869afe028c0f1128
